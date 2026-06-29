@@ -9,8 +9,7 @@
     "type": "processor",
     "maintainers": [
       {
-        "name": "edmore",
-        "email": "edmore.moyo@pennmedicine.upenn.edu"
+        "name": "edmore"
       }
     ],
     "tags": [
